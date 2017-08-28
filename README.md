@@ -1,2 +1,2 @@
-# datajworkshop
-Intro to Data Journalism Workshop
+# datajournalism
+Intro to Data Journalism
